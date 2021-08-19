@@ -1,0 +1,40 @@
+.login{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+}
+
+img{
+     width:400px ;
+    height:100px; 
+     margin: 50px;
+}
+
+.para{
+    display: flex;
+  font-size: 3.5rem !important;
+  font-weight: bolder !important;
+  color:rgb(7, 109, 192) !important;
+  margin:50px;
+}
+
+.para1{
+    font-size: 3.5rem !important;
+    font-weight: bolder !important; 
+    color:white !important;
+    background:rgb(7, 109, 192) !important;
+    margin-left: 7px;
+    border-radius: 10px;
+}
+
+.btn{
+    background: rgb(7, 109, 192) !important;
+    color:white !important;
+}
+
+button:hover{
+    background-color: white !important;
+    color:rgb(7, 109, 192) !important;
+}

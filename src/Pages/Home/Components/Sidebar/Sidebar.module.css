@@ -1,0 +1,165 @@
+.image1{
+    display: flex;
+    width:230px !important;
+    height: 50px !important;
+    border-top-left-radius:8px;
+    border-top-right-radius:8px;
+    position: relative;
+    margin-left:0px;
+}
+
+.logo{
+  position: absolute;
+  left: 110px;
+  margin-top:-85px;
+  width:60px !important;
+  height:60px !important;
+  border-radius:100px;
+  border:2px solid white;
+} 
+
+p{
+    font-size:11px;
+    color:rgb(97, 92, 92) !important;
+}
+
+.same{
+    color:black !important;
+}
+
+.topBox{
+    width: 230px;
+    height:330px;
+    background-color:white;
+    margin-left:100px !important;
+    border-radius: 8px;
+}
+
+
+.para1{
+    padding-left:45px;
+    border-bottom:0.5px solid rgb(207, 203, 203);
+    padding-bottom:13px;
+}
+
+.name{
+    padding-left:65px !important;
+}
+
+.connection{
+    padding-left:15px;
+    border-bottom:0.5px solid rgb(207, 203, 203);
+}
+
+.connection:hover{
+    background-color: rgb(218, 207, 207);
+}
+
+.access{
+    padding-top:10px !important;
+    padding-left:15px;
+    border-bottom:0.5px solid rgb(207, 203, 203);
+    padding-bottom: 15px;
+    position: relative;
+}
+
+.access>img{
+    width: 10px !important;;
+    height:10px !important;
+    border-radius: 2px;
+    margin-left:-20px;
+    position: absolute;
+    top:-25px;
+    left:35px;
+}
+
+.access .same{
+    padding-left: 15px;
+}
+
+.access:hover{
+    background-color: rgb(218, 207, 207);
+}
+
+.itemimg{
+    width:15px;
+    height:15px;
+}
+
+.items{
+    display: flex;
+    align-items: center;
+    position: relative;
+    top:-35px;
+    left:-33px;
+}
+
+.items > .same {
+    display: flex;
+    margin-left:-39px;
+}
+
+.connection p{
+    display: flex;
+}
+
+.innerpara{   
+    padding-left: 130px;
+    color:rgb(31, 127, 187);
+}
+
+.second_box{
+    display: flex;
+    flex-direction: column;
+    font-size:12px;
+    background-color: white;
+    width: 220px;;
+    height:120px;
+    justify-content: space-between;
+    margin-top:10px;
+    margin-left:100px;
+    padding-left: 13px;
+    padding-bottom:10px;
+    border-radius: 5px;
+    padding-top:5px; 
+}
+
+.second_box >p{
+    display: flex;
+
+}
+
+.second_box > p >span{
+    padding-left: 165px;
+    font-size:17px;
+    color:grey;
+    font-weight:bolder;
+}
+
+
+.link{
+    font-size:12px;
+    padding-top:5px;
+}
+
+.last{
+    font-size:16px;
+    font-weight:bold;
+    border-top: 0.5px solid grey;
+    color:grey;
+    padding-left:68px;
+    padding-top:6px;
+    padding-bottom:10px;
+    margin-left: -13px;
+    margin-bottom: -10px;
+    border-bottom: 5px;
+}
+
+
+.last:hover{
+    background-color:lightgrey;
+    height: fit-content;
+}
+
+
+
